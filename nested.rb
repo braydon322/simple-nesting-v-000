@@ -123,6 +123,6 @@ def adding_to_dennis
         }
      }
 
-		 programmer_hash[:dennis_ritchie][1][1] = "Assembly"
+		 programmer_hash[:dennis_ritchie]
 
 end
